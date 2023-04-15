@@ -13,6 +13,7 @@ I am a :bicyclist: bicyclist, :runner: runner, and learning to play :guitar: Gui
 </div>
 
 ### :pencil: Languages:
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="C" **alt="C" width="40" height="40"/>
@@ -23,6 +24,7 @@ I am a :bicyclist: bicyclist, :runner: runner, and learning to play :guitar: Gui
 
 
 ### :hammer_and_wrench: Tools:
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash Scripting" **alt="Bash Scripting" width="40" height="40"/>
@@ -33,14 +35,27 @@ I am a :bicyclist: bicyclist, :runner: runner, and learning to play :guitar: Gui
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
 </dev>
 
+### SDK:
+
+- nRF5 SoftDevice, nRF Connect SDK
+- STM32CubeIDE
+- Smart Snippets Studio
+- ESP-IDF
+
+### :gear: Embedded Programming
+
+- Baremetal Programming
+- FreeRTOS
+- ZephyrRTOS
+
 ### :gear: Platforms:
-<div>
-    <img src="https://commons.wikimedia.org/wiki/File:Nordic_Semiconductor_Company_Logo.svg" title="Nordic Semicondutor" **alt="nRF528xx Devices" width="40" height="40"/>
-    <img src="https://en.wikipedia.org/wiki/File:STMicroelectronics_logo.svg" title="ST Micoelectronics" **alt="STM32F1, STM32F4" width="40" height="40"/>
-    <img src="https://en.wikipedia.org/wiki/File:Dialog_Semiconductor_logo.svg" title="Dialog Semiconductor" **alt="DA145xx" width="40" height="40"/>
-    <img src="https://commons.wikimedia.org/wiki/File:Espressif_Logo.svg" title="Espressif" **alt="ESP32" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="40" height="40"/>
-</dev>
+
+- Nordic Semiconductor: nRF52832, nRF52840, nRF52810, nrf52811
+- ST Microelectronics: STM32F103, STM32F407
+- Espressif: ESP32, ESP32-C3, ESP32-S3
+- Dialog Semiconductor: DA14531, DA14585
+- Texas Instruments: TM4C123GXL
+- Raspberry Pi
 
 ### Projects and Demos:
 
