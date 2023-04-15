@@ -42,8 +42,6 @@ I am a :bicyclist: bicyclist, :runner: runner, and learning to play :guitar: Gui
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="40" height="40"/>
 </dev>
 
-
-
 ### Projects and Demos:
 
 
