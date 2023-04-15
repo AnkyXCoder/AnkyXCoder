@@ -8,7 +8,7 @@ I am a :bicyclist: bicyclist, :runner: runner, and learning to play :guitar: Gui
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ankitmodi912/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40">
   </a>
 </div>
 
