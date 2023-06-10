@@ -1,6 +1,6 @@
 ### Hi, I'm Ankit Modi :wave:
 
-I'm Electrical Engineer with a Master's Degree in Power Electronics, Machinse and Drives.
+I'm Electrical Engineer with a Master's Degree in Power Electronics, Machines and Drives.
 I am a Embedded Firmware Engineer based in Ahmedabad City, Gujarat, India.
 I am a :bicyclist: bicyclist, :runner: runner, and learning to play :guitar: Guitar.
 
