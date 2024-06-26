@@ -2,7 +2,6 @@
 
 I'm Electrical Engineer with a Master's Degree in Power Electronics, Machines and Drives.
 I am a Embedded Firmware Engineer based in Ahmedabad City, Gujarat, India.
-I am a :bicyclist: bicyclist, :runner: runner, and learning to play :guitar: Guitar.
 
 ## :mailbox: Connect with me:
 
@@ -26,11 +25,10 @@ I am a :bicyclist: bicyclist, :runner: runner, and learning to play :guitar: Gui
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash Scripting" **alt="Bash Scripting" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" **alt="pytest" width="40" height="40"/>
 </dev>
 
 ### SDK:
